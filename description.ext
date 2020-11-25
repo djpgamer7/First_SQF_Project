@@ -1,0 +1,3 @@
+#include <functions\functions.hpp>
+
+disabledAI = 1;
