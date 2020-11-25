@@ -1,4 +1,4 @@
-class functions {
+class cfgFunctions {
     
     class djp {
         class isAdmin {};
