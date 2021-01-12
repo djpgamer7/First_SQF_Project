@@ -1,2 +1,2 @@
-# First_SQF_Project
+# My First SQF Project
 Welcome to my first SQF Project - The Craakman Admin Panel
